@@ -1,0 +1,51 @@
+body {
+    background: #f0f0f0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.calculator {
+    background: #5f5f5f;
+    margin: 100px auto;
+    width: 350px;
+    padding: 50px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 20px 0px #b8b8b8;
+}
+
+.bill {
+    width: 325px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin: 5px;
+    font-size: 16pt;
+}
+
+.option {
+    width: 220px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin: 5px;
+    font-size: 16pt;
+}
+
+.button-res {
+    background: #fd2a2a;
+    color: #f0f0f0;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border-right: none;
+    border-top: none;
+    border-left: none;
+    margin: 5px;
+    font-size: 15pt;
+    border-bottom: 4px solid red;
+}
+
+.jdl {
+    text-align: center;
+    font-weight: normal;
+    color: white;
+    font-size: 20px;
+}
